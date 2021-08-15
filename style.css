@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+
+}
+button{
+    height:80px;
+    width:80px;
+}
+div{
+    display: flex;
+    justify-content: center;
+
+}
